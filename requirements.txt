@@ -1,0 +1,4 @@
+psutil==5.9.6
+Pygments==2.17.2
+pynvml==11.5.0
+terminaltables==3.1.10
