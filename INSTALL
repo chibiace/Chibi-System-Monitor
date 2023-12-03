@@ -1,8 +1,12 @@
 python -m venv venv
-source venv/bin/activate.fish
+source venv/bin/activate
 
 pip install -r requirements.txt
+# or install manually:
 # pip install psutil
 # pip install pygments
 # pip install pynvml
 # pip install terminaltables
+
+
+RUN
